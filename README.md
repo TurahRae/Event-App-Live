@@ -1,7 +1,10 @@
 
----
+![Live on GitHub Pages](https://img.shields.io/badge/Live-GitHub%20Pages-blueviolet)
+![RSVP Functionality](https://img.shields.io/badge/Feature-RSVP-orange)
+![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-### 🌐 `eventapp-live/README.md` (Live Web Version)
+
+### 🌐  (Live Web Version)
 
 ```markdown
 # Event Reporting Web Demo (Live Version)
